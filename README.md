@@ -1,1 +1,3 @@
-# privacy-policy
+Privacy Policy
+==============
+
